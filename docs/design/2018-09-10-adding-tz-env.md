@@ -1,6 +1,6 @@
 # Proposal: Infer the System Timezone of a TiDB cluster via TZ environment variable
 
-- Author(s):  [Zhexuan Yang](www.github.com/zhexuany)
+- Author(s):  [Zhexuan Yang](https://github.com/zhexuany)
 - Last updated:  2018/09/09
 - Discussion at: Not applicable 
 
